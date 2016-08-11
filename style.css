@@ -1,7 +1,7 @@
 body {
     background-color: #161616;
     color: #D7CEC7;
-    font-size: 150%;
+    font-size: 60%;
     line-height: 1.4;
 }
 
@@ -21,7 +21,7 @@ h2{
 }
 
 #main {
-    padding: 20px;
+    padding: 30px;
 }
 
 a {
